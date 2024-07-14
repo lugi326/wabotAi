@@ -1,4 +1,2 @@
 # wabotAi
-wa bot mysql Ai
-#installl
-$ npm i @whiskeysockets/baileys
+npm i @whiskeysockets/baileysleys
